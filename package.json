@@ -1,0 +1,11 @@
+{
+  "name": "rl-express",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-router-dom": "6.22.3",
+    "@google/genai": "^1.39.0"
+  }
+}
